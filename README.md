@@ -1,5 +1,6 @@
 # ProjectAppChat
 Project App Chat
+link: https://q-appchat.herokuapp.com/
 
 sử dụng nodejs, socketio,deploy lên heroku
 
